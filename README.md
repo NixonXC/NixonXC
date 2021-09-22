@@ -28,9 +28,3 @@
 
 
 
-
-
-
-
-
-you wasted your time scrolling down 
