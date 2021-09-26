@@ -1,8 +1,7 @@
- I like to code yeah 
+🇮🇳 jai Hind 🇮🇳
 
 
-
-
+Html,css,js and python yeah
 
 
 
