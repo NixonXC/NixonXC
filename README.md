@@ -12,7 +12,9 @@ Html,css,js and python yeah
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NixonXC&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
+<hr>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NixonXC&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true&theme=radical)
 
 
 
