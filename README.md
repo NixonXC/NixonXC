@@ -1,4 +1,4 @@
-🇮🇳 Jai Hind 🇮🇳
+👀 Indian
 
 Html,css,js and python yeah
 
