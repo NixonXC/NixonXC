@@ -2,7 +2,7 @@
 <h3 align="center">Frontend/Newbie Backend and Verified Bot developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on RaviNLP<br><br>🌱 I’m currently learning PyTorch, Flask and Pandas<br><br>💬 Ask me about Discord.py, py-cord<br><br>⚡ Fun fact I'm a kickboxer and a calisthenics practitioner
+🔭 I’m currently working on PDFCore<br><br>🌱 I’m currently learning PyTorch, Flask and Pandas<br><br>💬 Ask me about Discord.py, py-cord<br><br>⚡ Fun fact I'm a kickboxer and a calisthenics practitioner
 
 
 ## 🌐 Socials:
